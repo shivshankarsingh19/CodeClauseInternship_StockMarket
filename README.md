@@ -1,7 +1,6 @@
 The dataset used (https://www.kaggle.com/datasets/aaron7sun/stocknews)
 
-# Bolo mere Satthhhhhhhh
-
+# Stock Market Analyis
 The provided code appears to be a Jupyter Notebook containing a combination of tasks and operations related to stock market prediction and natural language processing (NLP). Here's a summary of what each section of the code does:
 
 1. **Importing Libraries:**
